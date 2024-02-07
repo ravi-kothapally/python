@@ -1,0 +1,5 @@
+def func():
+    '''prints'''
+    print('hek')
+print(func.__doc__)
+
